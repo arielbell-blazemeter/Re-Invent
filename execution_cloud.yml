@@ -1,8 +1,8 @@
 ---
-provisioning: cloud
+provisioning: cloud 
 
 execution:
-- concurrency: 100
+- concurrency: 50
   hold-for: 5m
   ramp-up: 1m
   locations:
